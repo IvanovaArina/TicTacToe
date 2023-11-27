@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("The game is starting...");
+		System.out.println("The game is starting...");
 		JFrame w = new JFrame("TicTacToe");
 		w.setSize(400, 400);
 		w.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
